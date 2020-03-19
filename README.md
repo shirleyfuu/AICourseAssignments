@@ -1,2 +1,2 @@
-# Data-Mining
-pre
+# Artificial Intelligence Course
+Assignments submission
